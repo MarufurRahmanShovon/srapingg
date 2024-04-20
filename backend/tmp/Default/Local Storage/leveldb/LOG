@@ -1,0 +1,7 @@
+2024/04/02-00:37:39.482 4 Reusing MANIFEST /home/asus/amazon_scraper/backend/tmp/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/02-00:37:39.484 4 Recovering log #38
+2024/04/02-00:37:39.488 4 Level-0 table #41: started
+2024/04/02-00:37:39.495 4 Level-0 table #41: 273081 bytes OK
+2024/04/02-00:37:39.497 4 Recovering log #40
+2024/04/02-00:37:39.499 4 Reusing old log /home/asus/amazon_scraper/backend/tmp/Default/Local Storage/leveldb/000040.log 
+2024/04/02-00:37:39.503 4 Delete type=0 #38

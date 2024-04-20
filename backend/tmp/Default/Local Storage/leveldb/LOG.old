@@ -1,0 +1,14 @@
+2024/04/01-22:03:02.331 4 Reusing MANIFEST /home/asus/Desktop/puppet/tmp/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/01-22:03:02.333 4 Recovering log #35
+2024/04/01-22:03:02.336 4 Level-0 table #37: started
+2024/04/01-22:03:02.341 4 Level-0 table #37: 243654 bytes OK
+2024/04/01-22:03:02.364 4 Delete type=0 #35
+2024/04/01-22:03:02.365 6 Compacting 4@0 + 1@1 files
+2024/04/01-22:03:02.372 6 Generated table #39@0: 39 keys, 244916 bytes
+2024/04/01-22:03:02.373 6 Compacted 4@0 + 1@1 files => 244916 bytes
+2024/04/01-22:03:02.374 6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/01-22:03:02.374 6 Delete type=2 #31
+2024/04/01-22:03:02.375 6 Delete type=2 #37
+2024/04/01-22:03:02.375 6 Delete type=2 #34
+2024/04/01-22:03:02.375 6 Delete type=2 #26
+2024/04/01-22:03:02.375 6 Delete type=2 #28
